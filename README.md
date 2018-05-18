@@ -1,7 +1,5 @@
-# iFrame18
-iFrame Container
+# iFrame Container
 Features:<br />
-<br />
 <ul>
 <li>Responsive (Mobile, tablet, all devices adaptive)</li>
 <li>Full Width</li>
