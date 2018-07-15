@@ -13,10 +13,7 @@ Features:<br />
 </ul><br />
 <h1>Demo</h1>
 https://maximenz.github.io/iFrameContainer/
-
-
 This is exactly how iFrame should have been.
 
 http://1118.space/ideas/makan/proposal/
-
 See how PDF document work.
